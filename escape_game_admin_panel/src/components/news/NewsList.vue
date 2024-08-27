@@ -27,14 +27,21 @@ const newsList = ref([
     id: '00001',
     createTime: '2024/08/13',
     creator: '王大明',
-    topic: '嚇死你不償命',
+    topic: '今年最恐怖的鬼故事',
     status: 1
   },
   {
     id: '00002',
     createTime: '2024/08/14',
     creator: '王小明',
-    topic: '嚇死你不一定償命',
+    topic: '就是',
+    status: 1
+  },
+  {
+    id: '00002',
+    createTime: '2024/08/15',
+    creator: '王八蛋',
+    topic: '切版',
     status: 1
   }
 ])
