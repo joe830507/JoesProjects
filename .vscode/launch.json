@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-JapaneseLearningApplication<japanese_learning>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.lin.japanese_learning.JapaneseLearningApplication",
+            "projectName": "japanese_learning",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
